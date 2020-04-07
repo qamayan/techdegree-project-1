@@ -65,6 +65,21 @@ header {
 header {
   line-height: 1.5;
 }
+
+.more_about_me {
+  background: url('images/bangkok.jpeg') no-repeat top center ;
+  background-size: cover;
+}
+
+.experience img{
+  width: 40%;
+}
+
+.contact {
+  background: url('images/bangkok-watertaxi.jpg') no-repeat top center ;
+  background-size: cover;
+}
+
 header .profile-image {
   margin-top: 50px;
   width: 150px;
